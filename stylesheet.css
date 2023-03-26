@@ -1,0 +1,29 @@
+body {
+    margin:0px;
+    padding: 0px;;
+}
+.page-header {
+    background-image: url("skyline.jpg");
+    background-size:100% 120%;
+    height:500px;
+    width:100%;
+    padding:auto;
+    position:absolute;
+    top:-50px;
+}
+.page-header-title {
+    margin:auto;
+    padding-top:250px;
+    margin-bottom:200px;
+    width:1200px;
+    height:100px;
+    text-align: center;
+}
+.header-title {
+    text-align: center;
+    font-size: 48px;
+    background-color: white;
+}
+.page-content {
+    
+}
