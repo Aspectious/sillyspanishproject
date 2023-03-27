@@ -42,9 +42,13 @@ body {
 .imageblock {
 
 }
+.intro {
+    font-size:24pt;
+    margin-top:0px;
+}
 .content {
     font-size: 18pt;
-    margin-top:50px;
+    margin-top:150px;
 }
 .align-right {
     text-align: right;
