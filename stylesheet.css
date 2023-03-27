@@ -1,13 +1,13 @@
 body {
     margin:0px;
     padding: 0px;;
+    font-family: 'Roboto', sans-serif;
 }
 .page-header {
-    background-image: url("skyline.jpg");
+    background-image: url("img/skyline.jpg");
     background-size:100% 120%;
     height:500px;
     width:100%;
-    padding:auto;
     position:absolute;
     top:-50px;
 }
@@ -23,7 +23,56 @@ body {
     text-align: center;
     font-size: 48px;
     background-color: white;
+    padding:5px;
 }
 .page-content {
-    
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+    top:450px;
+}
+.page-content-authorsection {
+    padding:10px;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+}
+.textblock {
+
+}
+.imageblock {
+
+}
+.content {
+    font-size: 18pt;
+    margin-top:50px;
+}
+.align-right {
+    text-align: right;
+    float:right;
+}
+.halfwidth {
+    width:50%
+}
+.align-left {
+    text-align: left;
+    float: left;
+}
+.spacer {
+    width: 100%;
+    height:50px;
+    padding:10px;
+    margin:10px;
+}
+.MAP {
+    margin-bottom:50px;
+    width:1000px;
+    height: 300px;
+}
+.textarea-speedmuseum {
+    height:300px;
+    width: 1000px;
+}
+.textarea-mammothcave {
+    height:300px;
+    width: 1000px;
 }
